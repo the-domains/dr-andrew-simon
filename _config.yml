@@ -1,0 +1,28 @@
+name: Dr. Andrew Simon
+favicon: null
+layout_spectrum: 0.5730235297232866
+typography_spectrum: 0.7419591313228011
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9695992914494127
+  lightness: 0.5109354970045388
+  saturation: 0.4082292732782662
+  rhythmicContrast: 0.5169896828010678
+purpose: []
